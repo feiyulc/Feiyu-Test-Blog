@@ -7,7 +7,7 @@
 运行以下命令来安装这个包：
 
 ```bash
-``npm install my-npm-package``
+npm install my-npm-package
 
 ## 使用
 
