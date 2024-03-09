@@ -1,1 +1,20 @@
+{
+  "name": "my-npm-package",
+  "version": "1.0.0",
+  "description": "A simple NPM package with a CLI, a HTTP server, a REST API, a database interaction, user authentication, user registration, user management, and a blog system",
+  "main": "index.js",
+  "bin": {
+    "mycli": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.0",
+    "url": "^0.11.0"
+  }
+}
 
