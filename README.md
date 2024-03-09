@@ -7,13 +7,13 @@
 运行以下命令来安装这个包：
 
 ```bash
-npm install my-npm-package
+``npm install my-npm-package``
 
 ## 使用
 
 你可以通过运行以下命令来启动服务器：
 
-```mycli [port]
+mycli [port]
 
 其中[port]是你想要监听的端口。
 
